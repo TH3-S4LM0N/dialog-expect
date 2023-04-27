@@ -1,6 +1,6 @@
 [package]
 name = "dialog-expect"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 authors = ["TH3-S4LM0N"]
 description = "Display a dialog box with the message when calling `.expect`"
