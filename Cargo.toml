@@ -1,9 +1,9 @@
 [package]
 name = "dialog-expect"
-version = "1.0.3"
+version = "1.0.4"
 edition = "2021"
 authors = ["TH3-S4LM0N"]
-description = "Display a dialog box with the message when calling `.expect`"
+description = "Display a dialog box with the message when calling `.expect` or panicing"
 readme = "README.md"
 documentation = "https://docs.rs/dialog-expect"
 repository = "https://github.com/TH3-S4LM0N/dialog-expect"
